@@ -12,7 +12,7 @@ public class ConexionBD {
     //Usuario de la base de datos
     private static final String USUARIO = "root";
     //Contraseña de la base de datos
-    private static final String PASSWORD = "1234";
+    private static final String PASSWORD = "2048C@mpeon1";
 
     /**
      * Metodo que establece la conexion a la base de datos
